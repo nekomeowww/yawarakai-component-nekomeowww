@@ -1,0 +1,14 @@
+{
+    "groupname": "Ayaka Neko's Components",
+    "components": {
+        "ningmeng": {
+            "enable": true,
+            "name": "ningmeng",
+            "displayNam": "NingmengBot message and command",
+            "groupNam": "nekomeowww",
+            "version": "v1.0.0",
+            "authort": ["Ayaka Neko"],
+            "description": "NingmengBot message and commands"
+        }
+    }
+}
